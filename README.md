@@ -97,6 +97,15 @@ src/
 
 ---
 
+## 👤 Author
+
+**Brondon NONO**
+
+- GitHub : [@brondonnono](https://github.com/brondonnono)
+- LinkedIn : [brondonnono](https://linkedin.com/in/brondonnono)
+
+---
+
 ## 📄 License
 
-MIT — see [LICENSE](./LICENSE)
+MIT © 2026 [Brondon Nono](https://github.com/brondonnono)
