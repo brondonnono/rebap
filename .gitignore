@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+
+# Environment variables — NEVER COMMIT THESE FILES
+.env
+.env.local
+.env.production
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor settings
+.vscode/settings.json
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Local Supabase files
+supabase/.temp/
